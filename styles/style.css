@@ -1,0 +1,18 @@
+.header {
+    background-color: white;
+}
+
+.header a {
+    color: black;
+    text-transform: uppercase;
+
+}
+
+.header li:hover {
+    color: white;
+    background-color: #346abb;
+}
+
+.nav_icon {
+    display: inline-block !important;
+}
