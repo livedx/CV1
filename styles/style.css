@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css?family=Spicy+Rice');
 .header {
     background-color: white;
 }
@@ -15,4 +16,5 @@
 
 .nav_icon {
     display: inline-block !important;
+    padding-right: 8px;
 }
