@@ -1,40 +1,56 @@
-@import url('https://fonts.googleapis.com/css?family=Spicy+Rice');
+@import url("https://fonts.googleapis.com/css?family=Spicy+Rice");
+
+body {
+  font-family: sans-serif;
+}
+
 .header {
-    background-color: white;
+  background-color: white;
 }
 
 .header a {
-    color: black;
-    text-transform: uppercase;
-
+  color: black;
+  text-transform: uppercase;
 }
 
 .header li:hover {
-    color: white;
-    background-color: #346abb;
+  color: white;
+  background-color: #346abb;
 }
 
 .nav_icon {
-    display: inline-block !important;
-    padding-right: 8px;
-    padding-bottom: 5px;
+  display: inline-block !important;
+  padding-right: 8px;
+  padding-bottom: 5px;
 }
 
 .skills_line {
-    height: 23px;
-    width: 100%;
-    border-radius: 0px;
-    box-shadow: none;
-    background: #b5b5b5;
-    margin-bottom: 18px;
+  height: 23px;
+  width: 100%;
+  border-radius: 0px;
+  box-shadow: none;
+  background: #b5b5b5;
+  margin-bottom: 18px;
 }
 
 .skills_inline {
-    background: #346abb;
-    width: 100%;
-    height: 100%;
+  background: #346abb;
+  width: 100%;
+  height: 100%;
 }
 
-.row {
-    font-family: 'Roboto Slab', serif;
+.aboutme_item__name {
+  font-weight: bold;
+}
+
+.title_item {
+  font-size: 1.2em;
+  font-weight: bold;
+}
+
+.title_container {
+  margin: 20px;
+}
+.panel {
+  padding: 40px !important;
 }
