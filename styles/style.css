@@ -54,3 +54,35 @@ body {
 .panel {
   padding: 40px !important;
 }
+
+.rights {
+    background: #1a1a1a;
+    padding: 20px 0;
+    text-align: center;
+    clear: both;
+    color: #F0FFFF;
+}
+
+img {
+
+}
+
+.social-icon li a {
+    border-top-left-radius: 0px !important;
+    color: #333333;
+    border: 1px solid #cdcdcd;
+    height: 40px;
+    width: 50px;
+    float: left;
+    text-align: center;
+    font-size: 20px;
+    line-height: 48px;
+    margin-right: 10px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+
+.social-icon li a:hover {
+    color: #FFFFFF;
+    background-color: #ADD8E6;
+}
