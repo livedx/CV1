@@ -86,3 +86,24 @@ img {
     color: #FFFFFF;
     background-color: #ADD8E6;
 }
+
+section {
+    position: relative;
+    width: 100%;
+    background: #FFFFFF;
+}
+
+.social-icone li {
+    border-radius: 50% !important;
+    color: #333333;
+    border: 1px solid #cdcdcd;
+    height: 80px;
+    width: 80px;
+    float: left;
+    text-align: center;
+    font-size: 80px;
+    line-height: 48px;
+    margin-right: 10px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
