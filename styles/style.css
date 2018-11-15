@@ -110,6 +110,8 @@ body {
 .image {
   overflow: hidden;
   height: 200px;
+    min-width: 200px !important;
+    min-height: 200px !important;
 }
 
 .image img {
